@@ -31,8 +31,6 @@ Draws a pattern with 'A', 'B', 'C', and ' ' characters.
 ```go
 package main
 
-import "github.com/yourusername/piscine"
-
 func main() {
     piscine.QuadA(5, 3)
 }
